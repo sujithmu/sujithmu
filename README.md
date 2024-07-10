@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**sujithmu/sujithmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a React App for Web and Mobile that can manage my travel
 - 🌱 I’m currently learning 3D Web Designing
 - 👯 I’m looking to collaborate with individuals / companies who wanted to develop something big
